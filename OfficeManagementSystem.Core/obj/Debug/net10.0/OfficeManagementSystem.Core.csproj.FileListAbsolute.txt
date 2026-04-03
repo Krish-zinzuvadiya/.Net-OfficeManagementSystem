@@ -1,0 +1,11 @@
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Core\bin\Debug\net10.0\OfficeManagementSystem.Core.deps.json
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Core\bin\Debug\net10.0\OfficeManagementSystem.Core.dll
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Core\bin\Debug\net10.0\OfficeManagementSystem.Core.pdb
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Core\obj\Debug\net10.0\OfficeManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Core\obj\Debug\net10.0\OfficeManagementSystem.Core.AssemblyInfoInputs.cache
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Core\obj\Debug\net10.0\OfficeManagementSystem.Core.AssemblyInfo.cs
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Core\obj\Debug\net10.0\OfficeManagementSystem.Core.csproj.CoreCompileInputs.cache
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Core\obj\Debug\net10.0\OfficeManagementSystem.Core.dll
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Core\obj\Debug\net10.0\refint\OfficeManagementSystem.Core.dll
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Core\obj\Debug\net10.0\OfficeManagementSystem.Core.pdb
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Core\obj\Debug\net10.0\ref\OfficeManagementSystem.Core.dll

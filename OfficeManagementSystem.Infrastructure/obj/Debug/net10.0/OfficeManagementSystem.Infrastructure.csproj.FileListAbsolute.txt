@@ -1,0 +1,17 @@
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Infrastructure\bin\Debug\net10.0\OfficeManagementSystem.Infrastructure.deps.json
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Infrastructure\bin\Debug\net10.0\OfficeManagementSystem.Infrastructure.runtimeconfig.json
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Infrastructure\bin\Debug\net10.0\OfficeManagementSystem.Infrastructure.dll
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Infrastructure\bin\Debug\net10.0\OfficeManagementSystem.Infrastructure.pdb
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Infrastructure\bin\Debug\net10.0\OfficeManagementSystem.Core.dll
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Infrastructure\bin\Debug\net10.0\OfficeManagementSystem.Core.pdb
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Infrastructure\obj\Debug\net10.0\OfficeManagementSystem.Infrastructure.csproj.AssemblyReference.cache
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Infrastructure\obj\Debug\net10.0\OfficeManagementSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Infrastructure\obj\Debug\net10.0\OfficeManagementSystem.Infrastructure.AssemblyInfoInputs.cache
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Infrastructure\obj\Debug\net10.0\OfficeManagementSystem.Infrastructure.AssemblyInfo.cs
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Infrastructure\obj\Debug\net10.0\OfficeManagementSystem.Infrastructure.csproj.CoreCompileInputs.cache
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Infrastructure\obj\Debug\net10.0\OfficeMa.14F89ECA.Up2Date
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Infrastructure\obj\Debug\net10.0\OfficeManagementSystem.Infrastructure.dll
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Infrastructure\obj\Debug\net10.0\refint\OfficeManagementSystem.Infrastructure.dll
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Infrastructure\obj\Debug\net10.0\OfficeManagementSystem.Infrastructure.pdb
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Infrastructure\obj\Debug\net10.0\OfficeManagementSystem.Infrastructure.genruntimeconfig.cache
+B:\Sem - 5 Projects\DOTNET Individual Project\OfficeManagementSystem\OfficeManagementSystem.Infrastructure\obj\Debug\net10.0\ref\OfficeManagementSystem.Infrastructure.dll
